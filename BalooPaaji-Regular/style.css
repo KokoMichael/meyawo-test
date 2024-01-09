@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Baloo Paaji';
+    src: local('Baloo Paaji Regular'), local('Baloo-Paaji-Regular'),
+        url('BalooPaaji-Regular.woff2') format('woff2'),
+        url('BalooPaaji-Regular.woff') format('woff'),
+        url('BalooPaaji-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  body{
+    font-family: Baloo Paaji , cursive;
+  }
